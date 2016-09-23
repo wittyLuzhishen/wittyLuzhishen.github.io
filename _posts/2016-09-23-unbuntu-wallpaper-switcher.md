@@ -6,7 +6,7 @@ categories: test
 ---
 ##shell脚本##
 
-`
+```
 #! /bin/bash
 usage="
 1、将该文件放到放有图片的目录里，图片扩展名要为jpg，能看懂代码的可以自己改图片格式 \n
@@ -74,4 +74,4 @@ else
 fi
 
 echo ${usage}
-`
+```
