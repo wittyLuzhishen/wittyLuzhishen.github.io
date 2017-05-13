@@ -1,10 +1,10 @@
 ---
 layout: post
 title:  "ubuntu桌面图片切换脚本"
-date:   2016-09-17 13:16:39
+date:   2016-09-23 13:16:39
 categories: test
 ---
-##shell脚本##
+## shell
 
 ```
 #! /bin/bash
