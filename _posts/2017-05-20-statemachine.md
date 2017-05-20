@@ -1,5 +1,5 @@
 ---
-layout: psot
+layout: post
 title: 状态机
 date: 2017-05-20 10:31:46
 categories: Java
