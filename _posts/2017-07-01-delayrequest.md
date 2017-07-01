@@ -45,7 +45,6 @@ public abstract class BaseDelayRequest<T> {
     /**
      * <pre>
      * 发起一个新的请求，这意味着要放弃先前的延迟和对已经发出去的请求响应的监听
-     * 子类覆盖此方法时，应该首先调用父类的该方法
      * </pre>
      * @param req 请求用到的参数
      */
